@@ -1,30 +1,26 @@
-# 💫 About Me:
-👋 Hi, I’m @Sushanta Neupane : webDeveloper from 🇳🇵.<br>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Sushanta+Neupane" alt="Sushanta Neupane" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sushanta.neupane.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sushanta_neupane) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sushanta_neupane) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%fafafa.svg?logo=Chrome&logoColor=white)](https://sushantaneupane.com.np) 
-
-# 💻 Tech Stack:
-
-![Next Js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/React-f7f7f7?style=for-the-badge&logo=react&logoColor=087a9f) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2331648c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<sub>Architecting, building and shipping scalable systems, from APIs and databases to polished interfaces.</sub>
 
 
 
+<br/><br/>
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,postgres,mongodb,redis,docker,firebase,git,github,figma,postman&perline=9" alt="Tech Stack" />
 
+<br/><br/>
 
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-0f172a?style=flat-square&logo=drizzle&logoColor=C5F74F)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-0f172a?style=flat-square)
+![Yjs](https://img.shields.io/badge/Yjs-0f172a?style=flat-square)
+![Tiptap](https://img.shields.io/badge/Tiptap-0f172a?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-0f172a?style=flat-square&logo=n8n&logoColor=EA4B71)
+![Azure](https://img.shields.io/badge/Azure-0f172a?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Claude](https://img.shields.io/badge/Claude-0f172a?style=flat-square&logo=claude&logoColor=D97757)
+![Codex](https://img.shields.io/badge/Codex-0f172a?style=flat-square&logo=openai&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=sushanta-neupane&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
